@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dmsk01
 - 👀 I’m interested in self-development. As the main direction/activity/hobby I've chosen web-development.
-- 🌱 I’m currently learning Java Script Electron, Node JS and React).
+- 🌱 I’m currently learning Java Script Electron, Node JS and React.
 - 💞️ I’m looking to collaborate in some project on junior position.
 - 📫 Some day, I hope, I will work full time and do the magic)
 
