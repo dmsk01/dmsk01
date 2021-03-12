@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dmsk01
-- 👀 I’m interested in self-development. As the main direction/activity/hobby I've chosen web-development.
+- 👀 I’m interested in self-development. As the main direction/activity/hobby I've chosen web-developing.
 - 🌱 I’m currently learning Java Script Electron, Node JS and React. In the future I plan to become JS Fullstack engineer or Frontend software developer(I have not decided yet - too much cool technologies and too little time).
 - 💞️ First I’m looking to collaborate in some project on junior position. Work hard and then to improve my skill in the stack.
 - 📫 Some day, I hope, I will work full time as senior developer and do the magic)
